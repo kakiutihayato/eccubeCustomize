@@ -9,3 +9,6 @@
 
 ## 作業内容
 タスク内容はそれぞれissueとして発行し、解決したものをと閉じていく。
+
+## 開発環境
+https://github.com/hanjougithub/WP_Environment_php7.4
